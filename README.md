@@ -1,0 +1,1 @@
+ShotTracker is an R Shiny application for galeic football (GAA) teams to manage squads, games, and shot data. It provides interactive shot tracking, game summaries, season management, and visual analytics through a central dashboard backed by MongoDB.
