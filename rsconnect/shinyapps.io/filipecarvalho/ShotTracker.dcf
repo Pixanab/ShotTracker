@@ -1,0 +1,12 @@
+name: ShotTracker
+title: ShotTracker 27AugFilipe-Final
+username: filipecarvalho
+account: filipecarvalho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12536658
+bundleId: 9153504
+url: https://filipecarvalho.shinyapps.io/ShotTracker/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
